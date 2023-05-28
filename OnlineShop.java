@@ -12,8 +12,7 @@ public class OnlineShop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Display shop name and academic ID
-        System.out.print("Ali's Online Shop 443811034\n");
+
 
         int choice;
         do {
