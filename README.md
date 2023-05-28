@@ -3,7 +3,7 @@
 
 2- Each product has a name, quantity, and price.
 
-3- The program should initialize the shop with name of products, quantities, and prices (Hard coded).
+3- The program should initialize the shop with name of products, quantities, and prices.
 
 4- The user can display the products in the shop, their quantities, and their prices.
 
